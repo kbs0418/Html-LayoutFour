@@ -1,0 +1,42 @@
+*{
+    margin:0;
+}
+
+.header {
+    background-color: turquoise;
+    height: 100px;
+    text-align: center;
+}
+
+.nav {
+    background-color: violet;
+    height: 80%;
+    text-align: center;
+}
+
+.content{
+    overflow: hidden;
+}
+
+.article{
+    float: left;
+    background-color: salmon;
+    width: 60%;
+    height: 500px;
+    text-align: center;
+}
+
+.aside{
+    float: right;
+    background-color:springgreen;
+    width: 40%;
+    height: 500px;
+    text-align: center;
+}
+
+.footer{
+
+background-color: yellowgreen;
+height: 100px;
+text-align: center;
+}
